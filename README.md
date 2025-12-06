@@ -7,7 +7,6 @@ The website provides a smooth shopping experience with a clean UI, fast performa
 ---
 
 ## 📸 Website Screenshot
-> Add your screenshot in the project root as `screenshot.png`
 
 ![Freshco Screenshot](./screenshot.png)
 
